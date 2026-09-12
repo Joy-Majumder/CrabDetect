@@ -1,0 +1,29 @@
+{
+  "EuropeanGreenCrab.jpg": {
+    "class_id": 0,
+    "box": [
+      2,
+      2,
+      463,
+      260
+    ]
+  },
+  "Native_Jonah_crab.png": {
+    "class_id": 2,
+    "box": [
+      5,
+      3,
+      1194,
+      861
+    ]
+  },
+  "Native_Rock_crab.jpeg": {
+    "class_id": 1,
+    "box": [
+      4,
+      2,
+      287,
+      163
+    ]
+  }
+}

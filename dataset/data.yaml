@@ -1,0 +1,7 @@
+path: /Users/joy0x1/Downloads/UIU Mariner/WORK/DataSet/dataset
+train: images/train
+val: images/val
+names:
+  0: green_crab
+  1: rock_crab
+  2: jonah_crab
