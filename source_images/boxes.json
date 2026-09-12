@@ -2,28 +2,55 @@
   "EuropeanGreenCrab.jpg": {
     "class_id": 0,
     "box": [
-      2,
-      2,
+      1,
+      0,
       463,
-      260
+      258
+    ]
+  },
+  "EuropeanGreenCrab01.jpg": {
+    "class_id": 0,
+    "box": [
+      53,
+      97,
+      733,
+      645
+    ]
+  },
+  "EuropeanGreenCrabFemale.jpg": {
+    "class_id": 0,
+    "box": [
+      4,
+      20,
+      299,
+      208
     ]
   },
   "Native_Jonah_crab.png": {
     "class_id": 2,
     "box": [
       5,
-      3,
-      1194,
-      861
+      7,
+      1196,
+      855
     ]
   },
   "Native_Rock_crab.jpeg": {
     "class_id": 1,
     "box": [
-      4,
+      6,
       2,
-      287,
+      283,
       163
+    ]
+  },
+  "Native_Rock_crab_commun.jpg": {
+    "class_id": 1,
+    "box": [
+      3,
+      3,
+      375,
+      248
     ]
   }
 }
