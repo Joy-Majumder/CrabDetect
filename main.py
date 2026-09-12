@@ -35,7 +35,6 @@ def infer_class_id(filename):
 
 
 def draw_box_interactively(image_path):
-    """Opens the image, lets the user click-drag a box, returns (x_min, y_min, x_max, y_max)."""
     image = cv2.imread(image_path)
     clone = image.copy()
     state = {"start": None, "end": None, "drawing": False}
