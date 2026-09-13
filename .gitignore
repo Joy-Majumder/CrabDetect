@@ -6,3 +6,5 @@ Crabs Final Test.v1i.yolo26/
 CustomModel/
 Results/
 dataset.zip
+/model/yolo26x.pt
+/CustomModel/Yolo26CustomV1-trianedNothingDetects.pt
