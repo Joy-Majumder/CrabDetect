@@ -1,2 +1,3 @@
 dataset
+CustomModel/Yolo26CustomV1-trianedNothingDetects.pt
 model/yolo26x.pt
