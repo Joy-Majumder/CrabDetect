@@ -9,3 +9,5 @@ dataset.zip
 /model/yolo26x.pt
 /CustomModel/Yolo26CustomV1-trianedNothingDetects.pt
 *.pt
+/Users/joy0x1/Downloads/UIU Mariner/WORK/DataSet/videoSource/1.mp4
+videoSource/
